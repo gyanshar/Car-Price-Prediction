@@ -1,7 +1,7 @@
 # Car-Price-Prediction
 
 ## Aim:
-This project aims to predict the prices of cars by using variables like model name, company name etc.
+This project aims to predict the prices of cars by using attributes like model name, company name etc.
 
 ## About the Dataset:
 
