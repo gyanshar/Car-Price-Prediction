@@ -19,3 +19,9 @@ Parameters: Name, Label, Location, Kms_driven, Fuel_type, Year, Owner, Company <
 Model: Linear Regression <br>
 Libraries Used: NumPy, Pandas, Matplot, Seaborn, Sklearn <br>
 r2 score: *0.86* <br>
+
+## Summary:
+
+-	Analysed and trained 7 attributes using the Linear Regression model in Python to predict the price of used cars with a r2 score of 0.86
+-	Used OneHotEncoder, OrdinalEncoder and StandardScaler in Sklearn to transform the categorical values to numerical values and to normalize the data values
+-	Cleaned and Pre-processed 1,000 rows using Pandas in Python to prepare the data for analysis and used Seaborn and Matplotlib in Python for data visualization
